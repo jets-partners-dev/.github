@@ -17,8 +17,8 @@
 
 We build web applications, cloud infrastructure, AI integrations, and IoT systems for businesses that need software to work reliably at scale.
 
-[![Website](https://img.shields.io/badge/bgmtechnologies.ma-A43444?style=flat-square&logo=google-chrome&logoColor=white)](https://bgmtechnologies.ma)
-[![Email](https://img.shields.io/badge/contact@bgmtechnologies.ma-333?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@bgmtechnologies.ma)
+[![Website](https://img.shields.io/badge/bgmtechnologies.ma-A43444?style=flat-square&logo=google-chrome&logoColor=white)](https://bgmtechnologies.dev)
+[![Email](https://img.shields.io/badge/contact@bgmtechnologies.ma-333?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@bgmtechnologies.dev)
 
 </div>
 
@@ -110,5 +110,5 @@ What we use in production:
 
 We're based in Morocco and work with clients in Europe and the US.
 
-- **Website:** [bgmtechnologies.ma](https://bgmtechnologies.ma)
-- **Email:** [contact@bgmtechnologies.ma](mailto:contact@bgmtechnologies.ma)
+- **Website:** [bgmtechnologies.ma](https://bgmtechnologies.dev)
+- **Email:** [contact@bgmtechnologies.ma](mailto:hello@bgmtechnologies.dev)
