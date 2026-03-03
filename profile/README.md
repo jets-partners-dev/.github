@@ -17,8 +17,8 @@
 
 We build web applications, cloud infrastructure, AI integrations, and IoT systems for businesses that need software to work reliably at scale.
 
-[![Website](https://img.shields.io/badge/bgmtechnologies.ma-A43444?style=flat-square&logo=google-chrome&logoColor=white)](https://bgmtechnologies.dev)
-[![Email](https://img.shields.io/badge/contact@bgmtechnologies.ma-333?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@bgmtechnologies.dev)
+[![Website](https://img.shields.io/badge/bgmtechnologies.dev-A43444?style=flat-square&logo=google-chrome&logoColor=white)](https://bgmtechnologies.dev)
+[![Email](https://img.shields.io/badge/hello@bgmtechnologies.dev-333?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@bgmtechnologies.dev)
 
 </div>
 
@@ -71,7 +71,7 @@ We work in sprints and ship regularly. You see working software every two weeks,
 |---------|------------|--------|
 | [Jets & Partners](https://jets.partners) | Website and digital presence for a private aviation advisory firm specializing in charter, medevac, cargo, and aircraft sales. Based in Casablanca with global operations. | **Live** |
 | SpiderJet | Custom ERP/CRM system for managing jet charter operations, travel agency workflows, and ground transport logistics. Handles booking, invoicing, fleet management, and client dashboards. | **Live** |
-| [BGM Tech](https://bgmtechnologies.ma) | Agency website built with Next.js 15, Three.js, and custom WebGL shaders. | **In development** |
+| [BGM Tech](https://bgmtechnologies.dev) | Agency website built with Next.js 15, Three.js, and custom WebGL shaders. | **In development** |
 | TripVia | Travel booking and itinerary management platform. | **In development** |
 
 ---
@@ -110,5 +110,5 @@ What we use in production:
 
 We're based in Morocco and work with clients in Europe and the US.
 
-- **Website:** [bgmtechnologies.ma](https://bgmtechnologies.dev)
-- **Email:** [contact@bgmtechnologies.ma](mailto:hello@bgmtechnologies.dev)
+- **Website:** [bgmtechnologies.dev](https://bgmtechnologies.dev)
+- **Email:** [hello@bgmtechnologies.dev](mailto:hello@bgmtechnologies.dev)
